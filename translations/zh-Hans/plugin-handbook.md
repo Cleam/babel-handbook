@@ -701,7 +701,6 @@ function scopeOnce() {
 单个绑定看起来像这样︰
 
 ```js
-Text for Translation
 {
   identifier: node,
   scope: scope,
@@ -740,7 +739,7 @@ function scopeOne() {
 
 Babel 实际上是一组模块的集合。本节我们将探索一些主要的模块，解释它们是做什么的以及如何使用它们。
 
-> 注意：本节内容不是详细的 API 文档的替代品，正式的 API 文档将很快提供出来。
+> 注意：本节内容不是详细的 API 文档的替代品，[更详细的API](https://babeljs.io/docs/usage/api/)。
 
 ## <a id="toc-babylon"></a>[`babylon`](https://github.com/babel/babylon)
 
